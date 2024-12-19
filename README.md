@@ -28,7 +28,7 @@ Welcome to the UNO Game! This is a digital version of the classic card game UNO,
 
 3. **Run the game**:
     ```bash
-    python game.py
+    python main.py
     ```
 
 ## How to Play
